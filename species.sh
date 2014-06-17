@@ -1,5 +1,5 @@
-#TODO: do something
-#also list kingdom phylum class
+#We added a different line in the second copy
+
 for filename in $*
 do
 	echo $filename
