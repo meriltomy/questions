@@ -1,3 +1,4 @@
+#TODO: do something
 for filename in $*
 do
 	echo $filename
