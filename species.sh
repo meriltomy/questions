@@ -1,4 +1,5 @@
 #TODO: do something
+#also list kingdom phylum class
 for filename in $*
 do
 	echo $filename
